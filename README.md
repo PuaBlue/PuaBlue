@@ -9,9 +9,9 @@
   Combinando un enfoque analítico para proteger ecosistemas digitales con la creatividad del <b>arte</b>, el pensamiento lógico de la <b>programación</b> y la estrategia de los <b>videojuegos</b>.
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![Portfolio / Blog](https://img.shields.io/badge/Portfolio_/_Blog-121212?style=for-the-badge&logo=hashnode&logoColor=00f0ff)](https://tu-sitio-web.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@ejemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/puasec/)
+[![Portfolio / Blog](https://img.shields.io/badge/Portfolio_/_Blog-121212?style=for-the-badge&logo=hashnode&logoColor=00f0ff)](https://www.puasecurity.dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelschafer2002@gmail.com)
 
 </div>
 
@@ -37,8 +37,8 @@
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
   <img src="https://img.shields.io/badge/Suricata-ED1C24?style=flat-square&logo=suricata&logoColor=white" alt="Suricata" />
   <img src="https://img.shields.io/badge/Zeek-008080?style=flat-square&logo=zeek&logoColor=white" alt="Zeek" />
-  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-E65C00?style=flat-square&logo=target&logoColor=white" alt="MITRE ATT&CK" />
-  <img src="https://img.shields.io/badge/Sigma_Rules-2D9CDB?style=flat-square&logo=codeforces&logoColor=white" alt="Sigma" />
+  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-E65C00?style=flat-square" alt="MITRE ATT&CK" />
+  <img src="https://img.shields.io/badge/Sigma_Rules-2D9CDB?style=flat-square" alt="Sigma" />
 </p>
 
 #### 💻 Programación & Scripting
@@ -46,7 +46,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/KQL-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="KQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
 </p>
@@ -54,9 +55,9 @@
 #### 🎨 Artes & Intereses Creativos
 <p>
   <img src="https://img.shields.io/badge/Digital_Art-FF69B4?style=flat-square&logo=artstation&logoColor=white" alt="Digital Art" />
-  <img src="https://img.shields.io/badge/Pixel_Art-9B59B6?style=flat-square&logo=itch.io&logoColor=white" alt="Pixel Art" />
-  <img src="https://img.shields.io/badge/UI%2FUX_Design-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Game_Development-000000?style=flat-square&logo=godotengine&logoColor=white" alt="Godot / Gamedev" />
+  <img src="https://img.shields.io/badge/Pixel_Art-9B59B6?style=flat-square&logo=itchdotio&logoColor=white" alt="Pixel Art" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="Godot" />
 </p>
 
 ---
@@ -65,21 +66,21 @@
 
 | Proyecto | Descripción | Tecnologías |
 | :--- | :--- | :--- |
-| 🛡️ **[SOC-SentineL2](https://github.com/PuaBlue/SOC-SentineL2)** | Plataforma web de ciberseguridad para analistas de SOC Nivel 2, orientada al análisis forense de logs exportados de SIEMs y a la generación automatizada de informes técnicos y ejecutivos en PDF |
-| ⚡ **[Whatsapp-JobSearchReport-Bot] (https://github.com/PuaBlue/Whatsapp-JobSearchReport-Bot)** | Automated LinkedIn job scraper that hunts Blue Team & SOC opportunities and broadcasts alerts directly to WhatsApp cybersecurity communities. Built with Python, Docker & WPPConnect |
-| 🕹️ **[Azure-SOCLab](https://github.com/PuaBlue/Azure-SOCLab)** | A hands-on SOC home lab using Azure and Microsoft Sentinel to collect Windows security logs, detect successful RDP logins with KQL, and investigate generated incidents |
+| 🛡️ **[SOC-SentineL2](https://github.com/PuaBlue/SOC-SentineL2)** | Plataforma web de ciberseguridad para analistas de SOC Nivel 2, orientada al análisis forense de logs exportados de SIEMs y a la generación automatizada de informes técnicos y ejecutivos en PDF | `Python` `SIEM Logs` `DFIR` `PDF Automation` |
+| ⚡ **[Whatsapp-JobSearchReport-Bot](https://github.com/PuaBlue/Whatsapp-JobSearchReport-Bot)** | Automated LinkedIn job scraper that hunts Blue Team & SOC opportunities and broadcasts alerts directly to WhatsApp cybersecurity communities. Built with Python, Docker & WPPConnect | `Python` `Docker` `WPPConnect` `Scraping` |
+| 🕹️ **[Azure-SOCLab](https://github.com/PuaBlue/Azure-SOCLab)** | A hands-on SOC home lab using Azure and Microsoft Sentinel to collect Windows security logs, detect successful RDP logins with KQL, and investigate generated incidents | `Azure` `Sentinel` `KQL` `Windows Logs` |
 
 ---
 
 ### 📊 GitHub Stats & Actividad
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PuaBlue&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PuaBlue&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=PuaBlue&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PuaBlue&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PuaBlue&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+  <img src="https://streak-stats.demolab.com/?user=PuaBlue&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
 </div>
 
 ---
