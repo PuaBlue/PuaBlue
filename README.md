@@ -10,7 +10,7 @@
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/puasec/)
-[![Portfolio / Blog](https://img.shields.io/badge/Portfolio_/_Blog-121212?style=for-the-badge&logo=hashnode&logoColor=00f0ff)](https://www.puasecurity.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=hashnode&logoColor=00f0ff)](https://www.puasecurity.dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelschafer2002@gmail.com)
 
 </div>
@@ -37,8 +37,8 @@
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
   <img src="https://img.shields.io/badge/Suricata-ED1C24?style=flat-square&logo=suricata&logoColor=white" alt="Suricata" />
   <img src="https://img.shields.io/badge/Zeek-008080?style=flat-square&logo=zeek&logoColor=white" alt="Zeek" />
-  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-E65C00?style=flat-square" alt="MITRE ATT&CK" />
-  <img src="https://img.shields.io/badge/Sigma_Rules-2D9CDB?style=flat-square" alt="Sigma" />
+  <img src="https://img.shields.io/badge/-MITRE%20ATT--CK-E65C00?style=flat-square" alt="MITRE ATT-CK" />
+  <img src="https://img.shields.io/badge/-Sigma%20Rules-2D9CDB?style=flat-square" alt="Sigma Rules" />
 </p>
 
 #### 💻 Programación & Scripting
@@ -54,10 +54,10 @@
 
 #### 🎨 Artes & Intereses Creativos
 <p>
-  <img src="https://img.shields.io/badge/Digital_Art-FF69B4?style=flat-square&logo=artstation&logoColor=white" alt="Digital Art" />
-  <img src="https://img.shields.io/badge/Pixel_Art-9B59B6?style=flat-square&logo=itchdotio&logoColor=white" alt="Pixel Art" />
+  <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" alt="Blender" />
+  <img src="https://img.shields.io/badge/Aseprite-7D929E?style=flat-square&logo=aseprite&logoColor=white" alt="Aseprite" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="Godot" />
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="Godot" />
 </p>
 
 ---
